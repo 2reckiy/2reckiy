@@ -1,5 +1,13 @@
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivankovitser.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivankovitsermax)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2reckiy)
+
+</div>
+
+<div align="center">
+
 # 🚀 Max Ivankovitser
 ### Full Stack Engineer • Game Developer • Tech Enthusiast
 
@@ -264,18 +272,6 @@ Tech Stack: [PHP, JavaScript, HTML5]
 <div align="center">
 
 [![Max's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2reckiy&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivankovitser.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivankovitsermax)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2reckiy)
 
 </div>
 
