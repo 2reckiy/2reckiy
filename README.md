@@ -18,7 +18,7 @@
 const user = {
     name: "Maksym I.",
     location: "Dnipro, Ukraine 🇺🇦",
-    experience: "14+ years",
+    experience: "since 2011",
     role: "Senior Full Stack Engineer & Game Developer",
     passion: ["Clean Code", "Scalable Architecture", "Game Development", "Real-time Systems"],
     currentlyLearning: ["Vue.js", "Nuxt.js", "Advanced Cloud Architecture", "Web3"]
